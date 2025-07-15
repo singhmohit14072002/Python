@@ -31,8 +31,12 @@
 
 #break and continue statement 
 
-for i in  range(1, 21):
-    if i == 15+1:
-        break
-    else:
-        print(i)
+# for i in  range(1, 21):
+#     if i == 15+1:
+#         break
+#     else:
+#         print(i)
+        
+
+        
+        
